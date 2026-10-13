@@ -1,0 +1,6 @@
+,,customers,repeat_rate_pct,ci95_low,ci95_high
+by review score,1-2 stars,7256.0,2.7,2.33,3.07
+by review score,3 stars,4808.0,2.93,2.46,3.41
+by review score,4-5 stars,43047.0,2.81,2.65,2.96
+by delivery,4+ days late,2868.0,2.37,1.81,2.93
+by delivery,on time / <=3 days late,52243.0,2.83,2.69,2.97
